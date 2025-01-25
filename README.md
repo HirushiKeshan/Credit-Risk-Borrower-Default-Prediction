@@ -5,6 +5,7 @@ prediction of borrower default can help mitigate these risks and enable lenders 
 decisions regarding loan approvals and credit limits. Thus, accurately predicting borrower defaults is 
 essential for lenders to make informed decisions, set appropriate interest rates, establish credit limits, 
 and effectively manage their loan portfolios. 
+
 Therefore, this project aims to develop a robust predictive model using machine learning 
 classification algorithms to automate the loan approval process. This model is classification problem 
 and it is used in predicting loan defaulters and Various techniques are employed in credit risk 
